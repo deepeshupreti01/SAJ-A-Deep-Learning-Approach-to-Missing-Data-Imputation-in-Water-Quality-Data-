@@ -1,0 +1,104 @@
+USGSOhioRiver:
+Missing percentage: 30%
+Averaged SAITS: 40460640 parameters
+MAE=0.0249 ± 0.0007, RMSE=0.0809 ± 0.0011, MRE=0.0324 ± 0.0009, Average Inference time=2.10 seconds
+
+USGSOhioRiver:
+Missing percentage: 40%
+Averaged SAITS: 40460640 parameters
+MAE=0.0290 ± 0.0007, RMSE=0.0928 ± 0.0025, MRE=0.0380 ± 0.0010, Average Inference time=2.11 seconds
+
+USGSOhioRiver:
+Missing percentage: 50%
+Averaged SAITS: 40460640 parameters
+MAE=0.0390 ± 0.0011, RMSE=0.0948 ± 0.0015, MRE=0.0508 ± 0.0014, Average Inference time=2.10 seconds
+
+USGSOhioRiver:
+Missing percentage: 60%
+Averaged SAITS: 40460640 parameters
+MAE=0.0602 ± 0.0017, RMSE=0.1255 ± 0.0032, MRE=0.0786 ± 0.0022, Average Inference time=2.13 seconds
+
+USGSOhioRiver:
+Missing percentage: 70%
+Averaged SAITS: 40460640 parameters
+MAE=0.1050 ± 0.0037, RMSE=0.1954 ± 0.0066, MRE=0.1372 ± 0.0048, Average Inference time=2.15 seconds
+
+USGSOhioRiver:
+Missing percentage: 80%
+Averaged SAITS: 40460640 parameters
+MAE=0.1778 ± 0.0059, RMSE=0.2946 ± 0.0081, MRE=0.2321 ± 0.0077, Average Inference time=2.11 seconds
+
+USGSOhioRiver:
+Missing percentage: 90%
+Averaged SAITS: 40460640 parameters
+MAE=0.3053 ± 0.0068, RMSE=0.4659 ± 0.0089, MRE=0.3984 ± 0.0089, Average Inference time=2.17 seconds
+
+USGSOhioRiver:
+Missing percentage: 30%
+Averaged BRITS: 570432 parameters
+MAE=0.0649 ± 0.0014, RMSE=0.1551 ± 0.0022, MRE=0.0846 ± 0.0019, Average Inference time=2.60 seconds
+
+USGSOhioRiver:
+Missing percentage: 40%
+Averaged BRITS: 570432 parameters
+MAE=0.0751 ± 0.0017, RMSE=0.1673 ± 0.0025, MRE=0.0982 ± 0.0023, Average Inference time=2.62 seconds
+
+USGSOhioRiver:
+Missing percentage: 50%
+Averaged BRITS: 570432 parameters
+MAE=0.0888 ± 0.0021, RMSE=0.1857 ± 0.0033, MRE=0.1158 ± 0.0027, Average Inference time=2.62 seconds
+
+USGSOhioRiver:
+Missing percentage: 60%
+Averaged BRITS: 570432 parameters
+MAE=0.1112 ± 0.0025, RMSE=0.2191 ± 0.0048, MRE=0.1452 ± 0.0033, Average Inference time=2.62 seconds
+
+USGSOhioRiver:
+Missing percentage: 70%
+Averaged BRITS: 570432 parameters
+MAE=0.1457 ± 0.0030, RMSE=0.2590 ± 0.0055, MRE=0.1903 ± 0.0039, Average Inference time=2.65 seconds
+
+USGSOhioRiver:
+Missing percentage: 80%
+Averaged BRITS: 570432 parameters
+MAE=0.2088 ± 0.0050, RMSE=0.3338 ± 0.0084, MRE=0.2726 ± 0.0066, Average Inference time=2.63 seconds
+
+USGSOhioRiver:
+Missing percentage: 90%
+Averaged BRITS: 570432 parameters
+MAE=0.3415 ± 0.0105, RMSE=0.4897 ± 0.0132, MRE=0.4457 ± 0.0137, Average Inference time=2.66 seconds
+
+USGSOhioRiver:
+Missing percentage: 30%
+Averaged SAJ: 2197016 parameters
+MAE=0.0251 ± 0.0005, RMSE=0.0722 ± 0.0022, MRE=0.0327 ± 0.0007, Average Inference time=1.93 seconds
+
+USGSOhioRiver:
+Missing percentage: 40%
+Averaged SAJ: 2197016 parameters
+MAE=0.0274 ± 0.0006, RMSE=0.0760 ± 0.0012, MRE=0.0359 ± 0.0008, Average Inference time=1.86 seconds
+
+USGSOhioRiver:
+Missing percentage: 50%
+Averaged SAJ: 2197016 parameters
+MAE=0.0315 ± 0.0007, RMSE=0.0823 ± 0.0010, MRE=0.0411 ± 0.0009, Average Inference time=1.90 seconds
+
+USGSOhioRiver:
+Missing percentage: 60%
+Averaged SAJ: 2197016 parameters
+MAE=0.0393 ± 0.0009, RMSE=0.0944 ± 0.0018, MRE=0.0514 ± 0.0011, Average Inference time=1.88 seconds
+
+USGSOhioRiver:
+Missing percentage: 70%
+Averaged SAJ: 2197016 parameters
+MAE=0.0567 ± 0.0015, RMSE=0.1199 ± 0.0032, MRE=0.0741 ± 0.0020, Average Inference time=1.88 seconds
+
+USGSOhioRiver:
+Missing percentage: 80%
+Averaged SAJ: 2197016 parameters
+MAE=0.0961 ± 0.0025, RMSE=0.1945 ± 0.0035, MRE=0.1255 ± 0.0032, Average Inference time=1.89 seconds
+
+USGSOhioRiver:
+Missing percentage: 90%
+Averaged SAJ: 2197016 parameters
+MAE=0.2014 ± 0.0034, RMSE=0.3694 ± 0.0043, MRE=0.2629 ± 0.0044, Average Inference time=1.91 seconds

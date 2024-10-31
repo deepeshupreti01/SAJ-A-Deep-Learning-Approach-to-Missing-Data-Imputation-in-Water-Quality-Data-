@@ -1,0 +1,96 @@
+	USGSMuddyFK
+
+------------------------------------
+
+origin: USGS
+
+data type: downloaded type .FILE extension
+
+source of download: https://waterdata.usgs.gov/nwis/qw
+
+Station number: USGS 03293530 MUDDY FK AT MOCKINGBIRD VALLEY RD AT LOUISVILLE,KY
+
+Decimal Latitude: 38.27645917
+
+Decimal Longitude: -85.693573	
+
+start date: 2020-01-01 00:00:00
+
+end date: 2024-01-01 23:45:00
+
+no of rows: 140352
+
+sequence length: 24
+
+interval: 15 mins
+
+no of features: 6
+
+Parameters: ['Gage Height (ft)', 'Discharge (ft3/s)', 'Temp (Cels)', 'DO (mg/l)', 'pH (standard units)', 'Specific conductance (microsiemens/cm at 25 deg Cels)']
+
+Overall Missing Percentage: 8.242
+
+Training data: From 2020-01-01 00:00:00 To 2022-10-20 12:00:00
+
+Validation data: 2022-10-20 12:00:00 To 2023-03-15 18:00:00
+
+Test data: 2023-03-15 18:00:00 To 2024-01-01 23:45:00
+
+Remarks provided on data for each parameters:
+
+A  Approved for publication -- Processing and review completed.
+
+P  Provisional data subject to revision.
+
+e  Value has been estimated.
+
+------------------------------------
+
+	USGSOhioRiver
+
+------------------------------------
+
+origin: USGS
+
+data type: downloaded type .FILE extension
+
+source of download: https://waterdata.usgs.gov/nwis/qw
+
+Station number: USGS 03612600 OHIO RIVER AT OLMSTED, IL
+
+Decimal Latitude: 37.17921867
+
+Decimal Longitude: -89.058404	
+
+start date: 2014-01-01 00:00:00
+
+end date: 2024-01-01 23:45:00
+
+no of rows: 350688
+
+sequence length: 24
+
+interval: 15 mins
+
+no of features: 8
+
+Parameters: ['Discharge (ft3/s)', 'Turbidity (FNU)', 'Gage height (ft)', 'Nitrate plus nitrite insitu (ml/l as nitrogen)', 'Temperature (Cels)', 'Specific conductance (microsiemens/cm at 25 deg cels)', 'DO, (mg/l)', 'pH(standard units)']
+
+Overall Missing Percentage: 30.578
+
+Training data: From 2014-01-01 00:00:00 To 2021-01-01 02:30:00
+
+Validation data: 2021-01-01 02:30:00 To 2022-07-23 21:15:00
+
+Test data: 2022-07-23 21:15:00 To 2024-01-01 23:45:00
+
+Remarks provided on data for each parameters:
+
+A  Approved for publication -- Processing and review completed.
+
+P  Provisional data subject to revision.
+
+e  Value has been estimated.
+
+------------------------------------
+

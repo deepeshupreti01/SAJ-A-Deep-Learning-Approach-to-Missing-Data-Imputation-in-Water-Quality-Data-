@@ -1,0 +1,7 @@
+,Parameter,Min,Max,Mean,Std Dev,Skewness,Kurtosis,Missing %
+0,Gage Height (ft),0.71,9.31,1.078,0.673,6.673,57.286,0.454
+1,Discharge (ft3/s),0.08,425.0,7.188,18.88,9.871,132.469,5.734
+2,Temp (Cels),0.0,30.8,14.794,7.022,-0.056,-1.136,3.403
+3,DO (mg/l),1.5,18.2,8.489,2.57,0.47,-0.392,5.562
+4,pH (standard units),5.6,9.5,7.85,0.298,-2.405,12.77,29.874
+5,Specific conductance (microsiemens/cm at 25 deg Cels),71.0,2610.0,682.441,142.475,1.851,22.755,4.422

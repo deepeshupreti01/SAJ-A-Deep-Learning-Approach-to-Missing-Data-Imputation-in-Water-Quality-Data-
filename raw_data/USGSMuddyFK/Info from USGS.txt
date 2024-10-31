@@ -1,0 +1,30 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://waterdata.usgs.gov/provisional-data-statement/
+#
+# Contact:   gs-w_waterdata_support@usgs.gov
+# retrieved: 2024-07-30 23:54:11 EDT       (nadww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 03293530 MUDDY FK AT MOCKINGBIRD VALLEY RD AT LOUISVILLE,KY
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 03293530
+#            TS   parameter     Description
+#         60130       00065     Gage height, feet
+#         60131       00060     Discharge, cubic feet per second
+#         60133       00010     Temperature, water, degrees Celsius, [(2)]
+#         60134       00300     Dissolved oxygen, water, unfiltered, milligrams per liter, [(2)]
+#         60135       00400     pH, water, unfiltered, field, standard units, [(2)]
+#         60136       00095     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius, [(2)]
+#
+# Data-value qualification codes included in this output:
+#        
+#     A  Approved for publication -- Processing and review completed.
+#     e  Value has been estimated.
+# 

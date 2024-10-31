@@ -1,0 +1,36 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://waterdata.usgs.gov/provisional-data-statement/
+#
+# Contact:   gs-w_waterdata_support@usgs.gov
+# retrieved: 2024-07-11 08:09:23 EDT       (nadww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 03612600 OHIO RIVER AT OLMSTED, IL
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 03612600
+#            TS   parameter     Description
+#        166869       00060     Discharge, cubic feet per second, [(2)]
+#        220312       00065     Gage height, feet, TAILWATER, [Tailwater]
+#        268332       63680     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)
+#        323512       00065     Gage height, feet, TAILWATER
+#         60629       00065     Gage height, feet, HEADWATER, [Headwater]
+#         60634       00045     Precipitation, total, inches
+#         60636       99133     Nitrate plus nitrite, water, in situ, milligrams per liter as nitrogen
+#         60638       00010     Temperature, water, degrees Celsius
+#         60639       00095     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+#         60640       00300     Dissolved oxygen, water, unfiltered, milligrams per liter
+#         60641       00400     pH, water, unfiltered, field, standard units
+#
+# Data-value qualification codes included in this output:
+#        
+#     A  Approved for publication -- Processing and review completed.
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 

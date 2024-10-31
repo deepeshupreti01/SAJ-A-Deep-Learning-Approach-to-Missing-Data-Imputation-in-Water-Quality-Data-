@@ -1,0 +1,9 @@
+,Parameter,Min,Max,Mean,Std Dev,Skewness,Kurtosis,Missing %
+0,Discharge (ft3/s),13900.0,1290000.0,322819.575,242630.443,1.261,1.142,26.221
+1,Turbidity (FNU),1.1,972.0,41.62,46.482,2.295,11.072,40.316
+2,Gage height (ft),3.01,52.32,25.237,9.442,0.516,-0.148,2.542
+3,Nitrate plus nitrite insitu (ml/l as nitrogen),0.05,7.04,1.073,0.466,0.293,-0.106,56.986
+4,Temperature (Cels),0.3,31.5,17.14,8.979,-0.079,-1.425,25.005
+5,Specific conductance (microsiemens/cm at 25 deg cels),222.0,532.0,336.582,46.897,0.511,0.034,26.058
+6,"DO, (mg/l)",3.6,14.3,8.926,2.241,0.174,-0.851,31.106
+7,pH(standard units),6.8,8.9,7.726,0.227,-0.543,1.205,36.387
